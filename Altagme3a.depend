@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1623314192 source:c:\users\kimot\documents\altagme3a\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<stdbool.h>
+
+1623890410 source:h:\importannttttttt\2nd term\altagme3a\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<stdbool.h>
+	<conio.h>
+	<windows.h>
+	<dos.h>
+
